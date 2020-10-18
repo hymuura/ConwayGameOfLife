@@ -1,0 +1,28 @@
+.cell_alive{
+    background: black;
+    width: 5px;
+    height: 5px;
+}
+
+.cell_dead{
+    background: gray;
+    width: 5px;
+    height: 5px;
+}
+
+.dark_cell_alive{
+    background: blue;
+    width: 5px;
+    height: 5px;
+}
+
+.dark_cell_dead{
+    background: black;
+    width: 5px;
+    height: 5px;
+}
+
+.flex_row{
+    display: flex;
+    flex-direction: row;
+}
